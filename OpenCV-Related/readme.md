@@ -36,3 +36,48 @@ Computer vison: Computer vision is  a field of study which enables computers to 
 
 - RGB image: RGB stands for Red Green Blue. Most often, an RGB color is stored in structure or unsigned integer with BLue occuping the least significant area(a byte in 32-bit and 24-bit formats), Green the second least and red the third least.
 - BGR image: BGR is the same as RGB, except the order of areas is reversed.
+
+- grayscaling: Image in a group of shades without any color. While each pixel of a grayscale display carries an amount of light, ranging from the weakest amout of light, or black, tho the strongest amount of light or white.
+- Blur (Gaussian blur): In a Gaussian blur, the pixels nearest the centere of the kernel are given more weight than those far away form the center.  
+- Canny (edge cascade): 
+- Dilation: 
+- Eroding
+
+- Contour detection
+- thresholding
+
+- BGR to Grayscale
+- BGR tp HSV
+- BGR to l+a+b
+- BGR to RGB
+- HSV to BGR
+
+- Blurring Techning
+- smoothing and blurring
+- Averaging
+- Gaussian blur
+- Median Blur
+- Bilateral blur
+
+- Bitwise operator
+- AND OR XOR NOT
+
+- Masking
+
+- Computing Histogram
+- grayscale hidtogram
+- color histogram
+
+- Thresholding
+- Simple thresholding
+- Adaptive thresholding
+
+- Edge Detection
+- Edge vs Gradient
+- Laplacian
+- Sobel
+
+- Face Detection 
+- haar cascades
+- Face Recognition
+- yml file
