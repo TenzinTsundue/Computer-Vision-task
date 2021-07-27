@@ -7,7 +7,7 @@ OpenCV with python
 pip install opencv-python
 ``
 
-Beginner Computer Vision Projects (link)[https://data-flair.training/blogs/computer-vision-project-ideas/]
+Beginner Computer Vision Projects [link](https://data-flair.training/blogs/computer-vision-project-ideas/)
 - Edge Detectin
 - Photo Sketching
 - Detecting Contours
