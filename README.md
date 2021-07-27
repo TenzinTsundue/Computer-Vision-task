@@ -38,7 +38,7 @@ Advance Computer Vision Projects
 - Virtual Drums with OpenCV
 - Image Reverse Search Engine
 
-Computer Vision Projects(link)[https://www.upgrad.com/blog/computer-vision-project-ideas-for-beginners/]
+Computer Vision Projects[link](https://www.upgrad.com/blog/computer-vision-project-ideas-for-beginners/)
 - Face Detection 
 - People counting soulution
 - Object recognition (with open image dateset)
